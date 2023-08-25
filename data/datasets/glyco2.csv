@@ -1,0 +1,224 @@
+Name,SMILES,Concentration (mM),Exp. % MGS
+4-methoxyphenyl ß-d-galactopyranoside,COc1ccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,78.3
+4-methoxyphenyl ß-d-glucopyranoside,COc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,23.3
+4-methoxyphenyl α-d-galactopyranoside,COc1ccc(O[C@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,76.4
+4-methoxyphenyl α-d-glucopyranoside,COc1ccc(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,63.2
+4-bromophenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(Br)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,10.0
+4-chlorophenyl β-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(Cl)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,14.1
+4-fluorophenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(F)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,23.3
+4-hydroxyphenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(O)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,61.8
+4-methylphenyl ß-d-glucopyranoside,Cc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,62.3
+phenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@@H]1O,22,64.4
+4-(methoxycarbonyl)phenyl ß-d-glucopyranoside,COC(=O)c1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,49.1
+4-trifluoromethylphenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(cc2)C(F)(F)F)[C@H](O)[C@@H](O)[C@@H]1O,22,33.2
+4-nitrophenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(cc2)[N+]([O-])=O)[C@H](O)[C@@H](O)[C@@H]1O,22,60.9
+4-bromophenyl ß-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(Br)cc2)[C@H](O)[C@@H](O)[C@H]1O,22,6.2
+4-chlorophenyl ß-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(Cl)cc2)[C@H](O)[C@@H](O)[C@H]1O,22,21.1
+4-fluorophenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(F)cc2)[C@H](O)[C@@H](O)[C@H]1O,22,79.7
+4-hydroxyphenyl ß-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(O)cc2)[C@H](O)[C@@H](O)[C@H]1O,22,81.1
+4-methylphenyl β-d-galactopyranoside,Cc1ccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,88.3
+phenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@H]1O,22,79.1
+methyl 4-(β-d-galactopyranosyloxy)benzoate,COC(=O)c1ccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,29.9
+4-acetamidophenyl β-d-galactopyranoside,CC(=O)Nc1ccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,81.9
+4-(trifluoromethyl)phenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(cc2)C(F)(F)F)[C@H](O)[C@@H](O)[C@H]1O,22,57.9
+4-nitrophenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(cc2)[N+]([O-])=O)[C@H](O)[C@@H](O)[C@H]1O,22,45.6
+3-methylphenyl ß-d-glucopyranoside,Cc1cccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c1,22,79.1
+3-methoxyphenyl ß-d-glucopyranoside,COc1cccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c1,22,80.7
+3-hydroxyphenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2cccc(O)c2)[C@H](O)[C@@H](O)[C@@H]1O,22,90.1
+3-bromophenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2cccc(Br)c2)[C@H](O)[C@@H](O)[C@H]1O,22,35.9
+2-bromophenyl β-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccccc2Br)[C@H](O)[C@@H](O)[C@H]1O,22,71.2
+3-acetamidophenyl ß-d-galactopyranoside,CC(=O)Nc1cccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)c1,22,72.1
+4-trifluoromethoxyphenyl ß-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccc(OC(F)(F)F)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,57.4
+phenyl alpha-d-glucopyranoside,OC[C@H]1O[C@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@@H]1O,22,69.7
+4-fluorophenyl alpha-d-glucopyranoside,OC[C@H]1O[C@H](Oc2ccc(F)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,80.7
+4-bromophenyl alpha-d-glucopyranoside,OC[C@H]1O[C@H](Oc2ccc(Br)cc2)[C@H](O)[C@@H](O)[C@@H]1O,22,75.4
+4-ethoxyphenyl β-d-glucopyranoside,CCOc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,31.8
+4-propoxyphenyl β-d-glucopyranoside,CCCOc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,39.7
+2-methoxyphenyl β-d-glucopyranoside,COc1ccccc1O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O,22,54.4
+4-trifluoromethoxyphenyl ß-d-galactopyranoside,OC[C@H]1O[C@@H](Oc2ccc(OC(F)(F)F)cc2)[C@H](O)[C@@H](O)[C@H]1O,22,72.3
+2-acetamidophenyl β-d-galactopyranoside,CC(=O)Nc1ccccc1O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O,22,27.1
+ethyl 4-(β-d-galactopyranosyloxy)benzoate,CCOC(=O)c1ccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cc1,22,76.3
+isopropyl 4-(ß-d-glucopyranosyloxy)benzoate,CC(C)OC(=O)c1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,35.1
+ethyl 4-(β-d-glucopyranosyloxy)benzoate,CCOC(=O)c1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,5.8
+4-pentanamidophenyl β-d-glucopyranoside,CCCCC(=O)Nc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,17.8
+methyl 3-(β-d-galactopyranosyloxy)benzoate,COC(=O)c1cccc(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)c1,22,56.9
+4-methoxyphenyl ß-d-xylopyranoside,COc1ccc(O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)cc1,22,47.1
+4-methoxyphenyl ß-d-mannopyranoside,COc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)cc1,22,77.7
+4-methoxyphenyl α-d-mannopyranoside,COc1ccc(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)cc1,22,73.8
+4-(β-d-glucopyranosyloxy)-benzoic acid,OC[C@H]1O[C@@H](Oc2ccc(cc2)C(O)=O)[C@H](O)[C@@H](O)[C@@H]1O,22,73.3
+4-(β-d-galactopyranosyloxy)-benzoic acid,OC[C@H]1O[C@@H](Oc2ccc(cc2)C(O)=O)[C@H](O)[C@@H](O)[C@H]1O,22,82.5
+benzyl β-d-glucopyranoside,OC[C@H]1O[C@@H](OCc2ccccc2)[C@H](O)[C@@H](O)[C@@H]1O,22,71.9
+n-phenyl ß-d-glucopyranoside,O[C@@H]([C@@H]([C@H]1O)O)[C@@H](CO)O[C@H]1Nc2ccccc2,22,55.3
+s-phenyl-1-thio-β-d-glucopyranoside,S(c1ccccc1)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO,22,55.3
+4-methoxybenzyl ß-d-glucopyranoside,COc1ccc(CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,69.1
+n-(4-methoxyphenyl)-1-ß-d-glucopyranoside,O[C@H]([C@H](O[C@H]1Nc2ccc(OC)cc2)CO)[C@H](O)[C@H]1O,22,62.1
+4-methoxyphenyl-1-thio-ß-d-glucopyranoside,O[C@H]([C@H](O[C@H]1Sc2ccc(OC)cc2)CO)[C@H](O)[C@H]1O,22,80.0
+"1,4-bis-(ß-d-glucopyranosyl)benzene",OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)c2ccc(cc2)[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O,22,34.1
+"1,4-bis-(ß-d-galactopyranosyl)benzene",OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)[C@@H]3O[C@H](CO)[C@H](O)[C@H](O)[C@H]3O,22,79.2
+1-o-(ß-d-glucopyranosyl)-4-o-(ß-d-galactopyranosyl)benzene,OC[C@H]1O[C@@H](c2ccc([C@@H]3O[C@@H]([C@H]([C@@H]([C@H]3O)O)O)CO)cc2)[C@@H]([C@H]([C@H]1O)O)O,22,58.0
+"1,3-bis-(ß-d-glucopyranosyl)benzene",OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)c2cccc(c2)[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O,22,61.0
+6-o-(4-methoxyphenyl)-d-glucopyranoside,OC1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC2=CC=C(OC)C=C2,22,82.5
+(4-pyridinyl) β-d-glucopyranoside,OC[C@H]1O[C@@H](Oc2ccncc2)[C@H](O)[C@@H](O)[C@@H]1O,22,51.6
+4-methoxyphenyl-6-o-(α-d-galactopyranosyl) β-d-glucopyranoside,O[C@H]([C@H]([C@@H]([C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@@H](CO)O1)O)O)O)O2)O)O)[C@@H]2OC3=CC=C(OC)C=C3,22,66.1
+4-methoxyphenyl-6-o-(α-d-glucopyranosyl) ß-d-glucopyranoside,O[C@H]([C@H]([C@@H]([C@@H](CO[C@@H]1[C@@H]([C@H]([C@@H]([C@@H](CO)O1)O)O)O)O2)O)O)[C@@H]2OC3=CC=C(OC)C=C3,22,66.8
+4-methoxyphenyl-6-o-(ß-d-glucopyranosyl) ß-d-glucopyranoside,O[C@@H]1[C@@H](O)[C@H](O)[C@H](O[C@H]1OC2=CC=C(C=C2)OC)CO[C@H]3[C@H](O)[C@@H](O)[C@H](O)[C@H](O3)CO,22,61.6
+4-methoxyphenyl-4-o-(ß-d-galactopyranosyl) ß-d-glucopyranoside,O[C@H]1[C@H](O)[C@H](O)[C@H](CO)O[C@@H]1O[C@H]([C@@H](CO)O[C@H]2OC3=CC=C(OC)C=C3)[C@H](O)[C@H]2O,22,44.5
+2-amino β-d-galactopyranoside,Nc1ccccc1O[C@@H]2O[C@@H]([C@@H]([C@@H]([C@H]2O)O)O)CO,22,83.9
+2-amino-3-(β-d-galactopyranosyloxy)-benzoic acid,Nc1c(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)cccc1C(O)=O,22,40.5
+2-amino-3-(β-d-glucopyranosyloxy)-benzoic acid,Nc1c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cccc1C(O)=O,22,88.6
+4-aminophenyl β-d-glucopyranoside,Nc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,88.8
+4-acetamidophenyl β-d-glucopyranoside,CC(=O)Nc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,22,70.2
+"n-(2,2,3,3,4,4,4-heptafluoro)butyl-d-gluconamide",OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCC(F)(F)C(F)(F)C(F)(F)F,22,32.8
+n-phenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccccc1,22,65.7
+n-3-fluorophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1cccc(F)c1,22,9.4
+n-4-fluorophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccc(F)cc1,22,90.3
+n-benzyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCc1ccccc1,22,38.1
+n-2-fluorobenzyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCc1ccccc1F,22,35.4
+n-3-fluorobenzyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCc1cccc(F)c1,22,30.7
+n-4-fluorobenzyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCc1ccc(F)cc1,22,19.7
+n-2-phenylethyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCCc1ccccc1,22,29.7
+n-2-(2-fluoro)phenylethyl-d-gluconamide,OC[C@H]([C@H]([C@@H]([C@H](C(NCCc1c(F)cccc1)=O)O)O)O)O,22,20.6
+n-2-(3-fluoro)phenylethyl-d-gluconamide,OC[C@H]([C@H]([C@@H]([C@H](C(NCCc1cc(F)ccc1)=O)O)O)O)O,22,30.2
+n-2-(4-fluoro)phenylethyl-d-gluconamide,OC[C@H]([C@H]([C@@H]([C@H](C(NCCc1ccc(F)cc1)=O)O)O)O)O,22,69.0
+"n-2,5-difluorobenzyl-d-gluconamide",OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(NCc1cc(F)ccc1F)=O,22,9.7
+n-4-bromophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccc(Br)cc1,22,75.0
+n-2-fluorophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccccc1F,22,3.0
+"n-3,5-difluorophenyl-d-gluconamide",OC[C@H]([C@H]([C@@H]([C@H](C(Nc1cc(F)cc(F)c1)=O)O)O)O)O,22,4.4
+n-3-bromophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1cccc(Br)c1,22,40.0
+"n-2,6-difluorobenzyl-d-gluconamide",OC[C@H]([C@H]([C@@H]([C@H](C(NCc1c(F)cccc1F)=O)O)O)O)O,22,12.6
+n-4-methoxyphenyl-d-gluconamide,COc1ccc(NC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc1,22,3.9
+n-4-methoxybenzyl-d-gluconamide,COc1ccc(CNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc1,22,6.5
+n-4-methylbenzyl-d-gluconamide,Cc1ccc(CNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc1,22,5.0
+n-2-methoxybenzyl-d-gluconamide,COc1ccccc1CNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,72.8
+n-2-methoxyphenyl-d-gluconamide,COc1ccccc1NC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,100.0
+2-phenylhydrazide-d-gluconic acid,OC[C@H]([C@H]([C@@H]([C@H](C(NNC1=CC=CC=C1)=O)O)O)O)O,22,81.1
+2-(2-fluoro)phenylhydrazide-d-gluconic acid,OC[C@H]([C@H]([C@@H]([C@H](C(NNC1=C(F)C=CC=C1)=O)O)O)O)O,22,68.7
+n-1-naphthyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1cccc2ccccc12,22,103.8
+1-deoxy-1-[(2-fluorophenylmethyl)amino]-d-glucitol,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNCc1ccccc1F,22,30.5
+"1,4-bis-(d-gluconamide)benzene",O=C(Nc1ccc(NC([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)=O)cc1)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,66.7
+n-octyl-d-galactonamide ,CCCCCCCCNC(=O)[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO,0.5,72.2
+n-octanoyl-n-methyl-d-glucamine,CCCCCCCC(=O)N(C)C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,66.3
+n-methyl-n-octyl-d-gluconamide,CCCCCCCCN(C)C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,71.9
+1-o-octyl-d-glucitol,CCCCCCCCOC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,59.8
+n-octyl-l-mannonamide,CCCCCCCCNC(=O)[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)CO,22,22.0
+n-octyl-d-gluconamide,CCCCCCCCNC(=O)[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO,22,72.4
+n-butyl-erythronamide,CCCCNC(=O)[C@H](O)[C@H](O)CO,22,71.2
+n-pentyl-erythronamide,CCCCCNC(=O)[C@H](O)[C@H](O)CO,22,73.6
+n-hexyl-erythronamide,CCCCCCNC(=O)[C@H](O)[C@H](O)CO,22,68.7
+n-octyl-erythronamide,CCCCCCCCNC(=O)[C@H](O)[C@H](O)CO,22,56.3
+n-octyl-d-gluconamide,CCCCCCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,0.5,12.1
+d-gluconamide,NC([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)=O,22,52.5
+n-methyl-gluconamide,CNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,102.5
+n-ethyl-gluconamide,CCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,104.3
+n-propyl-gluconamide,CCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,87.3
+n-butyl-gluconamide,CCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,22.7
+n-pentyl-gluconamide,CCCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,12.4
+n-hexyl-gluconamide,CCCCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,5.9
+n-heptyl-gluconamide,CCCCCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,18.5
+n-nonyl-gluconamide,CCCCCCCCCNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,8.6
+4-methoxyphenyl β-d-xylopyranoside,COc1ccc(O[C@@H]2OC[C@@H]([C@@H]([C@H]2O)O)O)cc1,22,47.1
+glucitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,82.3
+galactitol,C([C@H]([C@@H]([C@@H]([C@H](CO)O)O)O)O)O,22,87.9
+"n-[5-hydroxy-6-(hydroxymethyl)-2-(4-methoxyphenoxy)-4-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-3-yl]acetamide",COC1=CC=C(O[C@@H]2O[C@H](CO)[C@H](O)C([C@H]2NC(C)=O)O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)C=C1,22,50.6
+"2-[3,5-dihydroxy-2-(hydroxymethyl)-6-(4-methoxyphenoxy)oxan-4-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",COC1=CC=C(C=C1)O[C@@H]2O[C@@H]([C@@H]([C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O3)[C@H]2O)O)CO,22,77.8
+"2-[3,5-dihydroxy-2-(hydroxymethyl)-6-(4-methoxyphenoxy)oxan-4-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",O[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]([C@H]([C@H](O[C@H]2OC3=CC=C(OC)C=C3)CO)O)[C@H]2O)CO)O)O,22,64.7
+"2-[[3,5-dihydroxy-6-(4-methoxyphenoxy)-4-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol",COC1=CC=C(O[C@@H]2O[C@H](CO[C@@H]3O[C@H](CO)[C@H](O)[C@@H]([C@H]3O)O)[C@H](O)[C@@H]([C@H]2O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C=C1,22,59.1
+n-4-(trifluoromethyl)phenyl-d-gluconamide,O[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)C(NC1=CC=C(C(F)(F)F)C=C1)=O,11,27.5
+n-4-methylphenyl-d-gluconamide,Cc1ccc(NC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc1,22,5.8
+n-3-(trifluoromethyl)benzyl-d-gluconamide,O=C(NCC1=CC(C(F)(F)F)=CC=C1)[C@@H]([C@@H](O)[C@H](O)[C@H](O)CO)O,22,79.9
+n-4-(trifluoromethyl)benzyl-d-gluconamide,O[C@@H](C(NCC1=CC=C(C=C1)C(F)(F)F)=O)[C@@H](O)[C@H](O)[C@H](O)CO,22,19.8
+n-2-hydroxyphenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccccc1O,22,29.7
+n-3-(trifluoromethyl)phenyl-d-gluconamide,O[C@@H](C(NC1=CC=CC(C(F)(F)F)=C1)=O)[C@@H](O)[C@H](O)[C@H](O)CO,22,86.4
+n-4-(trifluoromethoxy)phenyl-d-gluconamide,O=C([C@@H](O)[C@@H]([C@H]([C@H](CO)O)O)O)NC1=CC=C(OC(F)(F)F)C=C1,22,14.2
+"n-2,5-(dichloro)phenyl-d-gluconamide",O[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)C(NC1=CC(Cl)=CC=C1Cl)=O,22,45.5
+n-2-methylbenzyl-d-gluconamide,Cc1ccccc1CNC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,44.3
+n-4-(trifluoromethoxy)benzyl-d-gluconamide,OC[C@H](O)[C@H](O)[C@@H](O)[C@H](O)C(NCc1ccc(OC(F)(F)F)cc1)=O,11,23.2
+n-2-(trifluoromethoxy)benzyl-d-gluconamide,OC[C@@H]([C@@H]([C@H]([C@@H](C(NCc1ccccc1OC(F)(F)F)=O)O)O)O)O,22,61.0
+n-2-chlorophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccccc1Cl,22,99.9
+n-4-chlorophenyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)Nc1ccc(Cl)cc1,22,34.5
+n-4-chlorobenzyl-d-gluconamide,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)NCc1ccc(Cl)cc1,11,6.8
+n-2-methylphenyl-d-gluconamide,Cc1ccccc1NC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,22,90.0
+"n-2,6-dimethylphenyl-d-gluconamide",Cc1c(NC([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)=O)c(C)ccc1,22,32.1
+"n-2,5-dimethylphenyl-d-gluconamide",Cc1c(NC([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)=O)cc(C)cc1,22,84.2
+d-galactose,OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@H]1O,22,63.8
+d-glucose,OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O,22,76.4
+d-mannose,OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O,22,83.9
+d-talose,OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@H]1O,22,87.0
+d-melibiose,OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O,22,64.1
+d-lactose,OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O,22,72.2
+d-trehalose,OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,22,79.1
+d-maltose,OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O,22,84.4
+d-sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,22,88.0
+1-(α-d-galactopyranosyl)-2-propene,OC[C@H]1O[C@H](CC=C)[C@H](O)[C@@H](O)[C@H]1O,22,64.2
+1-(α-d-glucopyranosyl)-2-propene,OC[C@H]1O[C@H](CC=C)[C@H](O)[C@@H](O)[C@@H]1O,22,80.6
+1-(α-d-mannopyranosyl)-2-propene,OC[C@H]1O[C@H](CC=C)[C@@H](O)[C@@H](O)[C@@H]1O,22,88.8
+1-(α-d-talopyranosyl)-2-propene,OC[C@H]1O[C@H](CC=C)[C@@H](O)[C@@H](O)[C@H]1O,22,95.4
+1-(β-d-galactopyranosyl)-2-propene,OC[C@H]1O[C@@H](CC=C)[C@H](O)[C@@H](O)[C@H]1O,22,76.9
+1-(β-d-glucopyranosyl)-2-propene,OC[C@H]1O[C@@H](CC=C)[C@H](O)[C@@H](O)[C@@H]1O,22,79.4
+"1-α-o-methyl-1-β-(ethyl-2,2,-difluoroacetate)-d-galactopyranoside",O[C@]([C@@]([H])(CO)O[C@@](OC)(C(F)(C(OCC)=O)F)[C@](O)1[H])([H])[C@@]1(O)[H],Unreported,80.0
+1-α-hydroxyl-1-β-ethyl acetate-d-galactopyranoside,O[C@]([C@@]([H])(CO)O[C@@](O)(CC(OC)=O)[C@](O)1[H])([H])[C@@]1(O)[H],Unreported,81.4
+1-α-o-methyl-1-β-ethyl acetate-d-galactopyranoside,O[C@]([C@@]([H])(CO)O[C@@](OC)(CC(OC)=O)[C@](O)1[H])([H])[C@@]1(O)[H],Unreported,80.8
+allyl β-d-galactopyranosyl-(1→3)-2-acetamido-2-deoxy-β-d-galactopyranoside,CC(=O)N[C@H]1[C@H](OCC=C)O[C@H](CO)[C@H](O)[C@@H]1O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O,22,66.2
+allyl β-d-galactopyranosyl-(1→4)-2-acetamido-2-deoxy-β-d-galactopyranoside,CC(=O)N[C@@H]1[C@@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H](CO)O[C@H]1OCC=C,22,61.4
+allyl β-d-galactopyranosyl-(1→6)-2-acetamido-2-deoxy-β-d-galactopyranoside,CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)O[C@H]1OCC=C,22,52.6
+allyl β-d-galactopyranosyl-(1→3)-β-d-galactopyranoside,OC[C@H]1O[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](OCC=C)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,22,70.3
+allyl-β-d-galactopyranoside,C=CCO[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](CO)O1,22,84.7
+1-α-hydroxyl-2-acetamido-2-deoxy-β-d-galactopyranoside,OC[C@H]1OC(O)[C@H](NC(C)=O)[C@@H](O)[C@H]1O,22,89.3
+allyl 2-acetamido-2-deoxy-β-d-galactopyranoside,CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)O[C@H]1OCC=C,22,83.4
+octyl-β-d-glucopyranoside,O[C@H]([C@H]([C@@H]([C@@H](CO)O1)O)O)[C@@H]1OCCCCCCCC,22,84.6
+octyl-β-d-galactopyranoside,O[C@H]([C@H]([C@H]([C@@H](CO)O1)O)O)[C@@H]1OCCCCCCCC,22,20.9
+nan,C[N+](CC1=CC=CC=C1)(CCCCCCCCCCCCCCCC)C.[Cl-],22,1.0
+nan,C[N+](C)(CCCCCCCCCC)C.[Cl-],22,76.5
+nan,C[N+](C)(CCCCCCCCCCCCCCCC)C.[Cl-],22,6.2
+l-lysine butyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCC)=O)[NH3+].[Cl-].[Cl-],22,41.7
+l-lysine hexyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCCCC)=O)[NH3+].[Cl-].[Cl-],22,19.3
+l-lysine octyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCCCCCC)=O)[NH3+].[Cl-].[Cl-],22,9.9
+l-lysine decyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCCCCCCCC)=O)[NH3+].[Cl-].[Cl-],22,5.8
+l-lysine dodecyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCCCCCCCCCC)=O)[NH3+].[Cl-].[Cl-],22,81.2
+l-lysine tetradecyl ester dihydrochloride,[NH3+]CCCC[C@@H](C(OCCCCCCCCCCCCCC)=O)[NH3+].[Cl-].[Cl-],22,72.0
+sodium nα-hexanoyl-nε-butanoyl-l-lysinate,[Na+].CCCCCC(=O)N[C@@H](CCCCNC(=O)CCC)C([O-])=O,22,50.7
+"sodium nα,nε -bis(hexanoyl)-l-lysinate",[Na+].CCCCCC(=O)NCCCC[C@H](NC(=O)CCCCC)C([O-])=O,22,64.1
+sodium nα-hexanoyl-nε -octanoyl-l-lysinate,[Na+].CCCCCCCC(=O)NCCCC[C@H](NC(=O)CCCCC)C([O-])=O,22,57.3
+sodium nα-hexanoyl-nε -decanoyl-l-lysinate,[Na+].CCCCCCCCCC(=O)NCCCC[C@H](NC(=O)CCCCC)C([O-])=O,22,18.7
+sodium nα-hexanoyl-nε -dodecanoyl-l-lysinate,[Na+].CCCCCCCCCCCC(=O)NCCCC[C@H](NC(=O)CCCCC)C([O-])=O,22,7.7
+sodium nα-ethanoyl-nε -dodecanoyl-l-lysinate,[Na+].CCCCCCCCCCCC(=O)NCCCC[C@H](NC(C)=O)C([O-])=O,22,4.8
+sodium nα -octanoyl-nε -dodecanoyl-l-lysinate,[Na+].CCCCCCCCCCCC(=O)NCCCC[C@H](NC(=O)CCCCCCC)C([O-])=O,22,4.5
+"sodium nα ,nε -bis(dodecanoyl)-l-lysinate",[Na+].CCCCCCCCCCCC(=O)NCCCC[C@H](NC(=O)CCCCCCCCCCC)C([O-])=O,22,3.4
+sodium nα -dodecanoyl-nε -butanoyl-l-lysinate,[Na+].CCCCCCCCCCCC(=O)N[C@@H](CCCCNC(=O)CCC)C([O-])=O,22,93.1
+sodium nα -dodecanoyl-nε -octanoyl-l-lysinate,[Na+].CCCCCCCCCCCC(=O)N[C@@H](CCCCNC(=O)CCCCCCC)C([O-])=O,22,31.1
+nα-ethanoyl-nε -dodecanoyl-l-lysine,CCCCCCCCCCCC(=O)NCCCC[C@H](NC(C)=O)C(O)=O,1,69.6
+sodium nα -hexanoyl-nε -hexyl-l-lysinate,[Na+].CCCCCCNCCCC[C@H](NC(=O)CCCCC)C([O-])=O,22,39.8
+4-aminophenyl-β-d-galactopyranoside,O[C@H]1[C@H](Oc2ccc(N)cc2)O[C@H](CO)[C@H](O)[C@@H]1O,22,67.5
+4-methoxyphenyl-6-o-methyl-β-d-glucopyranoside,O[C@H]1[C@@H](O[C@H](COC)[C@H]([C@@H]1O)O)Oc2ccc(OC)cc2,22,70.4
+4-methoxyphenyl-6-deoxy-β-d-gluco-heptopyranose,Oc1ccc(O[C@@H]2O[C@H](CCOC)[C@H]([C@@H]([C@H]2O)O)O)cc1,22,59.5
+nan,O[C@@H]([C@@H](CO)O[C@H](CC(NCCC[C@H](N)C(O)=O)=O)[C@@H]1O)[C@@H]1O,22,62.7
+2-(α-d-galactopyranosyl)ethanoic acid,O[C@@H]([C@@H](CO)O[C@H](CC(O)=O)[C@@H]1O)[C@@H]1O,22,76.2
+2-(α-d-galactopyranosyl)acetamide,O[C@@H]([C@@H](CO)O[C@H](CC(N)=O)[C@@H]1O)[C@@H]1O,22,71.0
+n-methyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC)=O)[C@@H]1O)[C@@H]1O,22,80.4
+n-ethyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCC)=O)[C@@H]1O)[C@@H]1O,22,83.8
+n-propyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCC)=O)[C@@H]1O)[C@@H]1O,22,67.6
+n-butyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCC)=O)[C@@H]1O)[C@@H]1O,22,76.4
+n-pentyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCC)=O)[C@@H]1O)[C@@H]1O,22,59.6
+n-hexyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCCC)=O)[C@@H]1O)[C@@H]1O,22,55.9
+n-heptyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCCCC)=O)[C@@H]1O)[C@@H]1O,22,9.2
+n-octyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCCCCC)=O)[C@@H]1O)[C@@H]1O,22,9.0
+n-(4-aminobutyl)-2-(α-d-galactopyranosyl)ethylamide (hydrochloride),O[C@@H]([C@@H](CO)O[C@H](CC(NCCCC[NH3+])=O)[C@@H]1O)[C@@H]1O.[Cl-],22,67.9
+n-(4-carboxybutyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCC(O)=O)=O)[C@@H]1O)[C@@H]1O,22,74.4
+n-(5-hydroxypentyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCCCCCO)=O)[C@@H]1O)[C@@H]1O,22,40.9
+n-(isopropyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC(C)C)=O)[C@@H]1O)[C@@H]1O,22,72.2
+n-(isobutyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCC(C)C)=O)[C@@H]1O)[C@@H]1O,22,79.1
+n-(sec-butyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC(C)CC)=O)[C@@H]1O)[C@@H]1O,22,80.8
+n-(1-ethylpropyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC(CC)CC)=O)[C@@H]1O)[C@@H]1O,22,85.1
+n-cyclopropyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC1CC1)=O)[C@@H]2O)[C@@H]2O,22,69.6
+n-cyclopentyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC1CCCC1)=O)[C@@H]2O)[C@@H]2O,22,60.3
+n-allyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCC=C)=O)[C@@H]1O)[C@@H]1O,22,40.6
+n-propargyl-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NCC#C)=O)[C@@H]1O)[C@@H]1O,22,44.6
+z-n-(1-propenyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(N/C=C\C)=O)[C@@H]1O)[C@@H]1O,22,57.6
+e-n-(1-propenyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(N/C=C/C)=O)[C@@H]1O)[C@@H]1O,22,54.3
+e-n-(crotyl)-2-(α-d-galactopyranosyl)ethylamide,O[C@@H]([C@@H](CO)O[C@H](CC(NC/C=C/C)=O)[C@@H]1O)[C@@H]1O,22,69.1
+n-nonyl-2-(α-d-galactopyranosyl)ethylamide,O[C@H]([C@@H]1O)[C@H](O[C@@H]([C@@H]1O)CC(NCCCCCCCCC)=O)CO,5.5,29.1
+n-decyl-2-(α-d-galactopyranosyl)ethylamide,O[C@H]([C@@H]1O)[C@H](O[C@@H]([C@@H]1O)CC(NCCCCCCCCCC)=O)CO,5.5,28.6
+n-dodecyl-2-(α-d-galactopyranosyl)ethylamide,O[C@H]([C@@H]1O)[C@H](O[C@@H]([C@@H]1O)CC(NCCCCCCCCCCCC)=O)CO,0.55,60.6
+n-tetradecyl-2-(α-d-galactopyranosyl)ethylamide,O[C@H]([C@@H]1O)[C@H](O[C@@H]([C@@H]1O)CC(NCCCCCCCCCCCCCC)=O)CO,0.055,57.4
+n-hexadecyl-2-(α-d-galactopyranosyl)ethylamide,O[C@H]([C@@H]1O)[C@H](O[C@@H]([C@@H]1O)CC(NCCCCCCCCCCCCCCCC)=O)CO,0.055,54.0
+"n-(3,5-difluorobenzyl)-d-gluconamide",OC[C@H]([C@H]([C@@H]([C@H](C(NCc1cc(F)cc(F)c1)=O)O)O)O)O,22,71.4

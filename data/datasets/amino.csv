@@ -1,0 +1,81 @@
+Name,SMILES,Concentration (mM),Exp. % MGS,Exp. error,Set
+l-alpha-alanine,C[C@@H](C(=O)O)N,20,54.4,17.3,train/test
+l-valine,N[C@H](C(=O)O)C(C)C,20,44.5,7.8,train/test
+l-leucine,CC(C)C[C@@H](C(=O)O)N,20,45.6,14.0,train/test
+l-isoleucine,CC[C@H](C)[C@@H](C(=O)O)N,20,18.8,4.1,train/test
+l-proline,C1C[C@H](NC1)C(=O)O,20,102.8,15.6,train/test
+l-methionine,CSCC[C@@H](C(=O)O)N,20,31.1,13.5,train/test
+l-phenylalanine,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,20,11.8,2.8,train/test
+l-tryptophan,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,20,21.0,6.7,train/test
+l-threonine,C[C@H]([C@@H](C(=O)O)N)O,20,102.2,11.6,train/test
+l-serine,C([C@@H](C(=O)O)N)O,20,82.0,35.8,train/test
+l-cysteine,C([C@@H](C(=O)O)N)S,20,112.8,14.5,train/test
+l-glutamine,C(CC(=O)N)[C@@H](C(=O)O)N,20,27.9,8.0,train/test
+l-glycine,C(C(=O)O)N,20,97.7,23.8,train/test
+l-asparagine,C([C@@H](C(=O)O)N)C(=O)N,20,75.2,23.0,train/test
+l-histidine,C1=C(NC=N1)C[C@@H](C(=O)O)N,20,80.5,18.1,train/test
+l-lysine,C(CCN)C[C@@H](C(=O)O)N,20,63.1,3.2,train/test
+l-arginine,C(C[C@@H](C(=O)O)N)CN=C(N)N,20,70.3,19.2,train/test
+l-glutamate,C(CC(=O)O)[C@@H](C(=O)O)N,20,39.3,8.5,train/test
+l-aspartate,C([C@@H](C(=O)O)N)C(=O)O,20,64.8,36.0,train/test
+beta-alanine,C(CN)C(=O)O,20,81.5,11.7,train/test
+betaine,C[N+](C)(C)CC(=O)[O-],20,99.7,16.4,train/test
+4-fluoro-dl-phenylalanine,C1=CC(=CC=C1C[C@@H](C(=O)O)N)F,20,12.2,3.8,train/test
+4-chloro-l-phenylalanine,C1=CC(=CC=C1C[C@@H](C(=O)O)N)Cl,20,9.7,4.0,train/test
+4-amino-l-phenylalanine,C1=CC(=CC=C1C[C@@H](C(=O)O)N)N,20,59.3,17.8,train/test
+4-cyano-l-phenylalanine,C1=CC(=CC=C1C[C@@H](C(=O)O)N)C#N,20,56.2,13.3,train/test
+l-tert-leucine,CC(C)(C)[C@@H](C(=O)O)N,20,75.9,8.9,train/test
+n-methyl-l-alanine,C[C@@H](C(=O)O)NC,20,91.4,31.5,train/test
+n-acetyl-l-phenylalanine,CC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O,20,41.8,7.1,train/test
+1-aminocyclohexane carboxylic acid,C1CCC(CC1)(C(=O)O)N,20,45.4,8.7,train/test
+6-aminohexanoic acid,C(CCC(=O)O)CCN,20,77.6,5.7,train/test
+2-aminothiazole-4-carboxylic acid,C1=C(N=C(S1)N)C(=O)O,20,3.5,1.6,train/test
+l-phenylalaninol,C1=CC=C(C=C1)C[C@@H](CO)N,20,52.8,17.5,train/test
+l-alpha-phenylglycine,C1=CC=C(C=C1)[C@@H](C(=O)O)N,20,13.1,1.8,train/test
+n-acetyl-l-alanine,C[C@@H](C(=O)O)NC(=O)C,20,121.8,40.7,train/test
+l-alanine-l-phenylalanine dipeptide,C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)N,20,6.3,0.9,train/test
+l-alanine-l-alanine dipeptide,C[C@@H](C(=O)N[C@@H](C)C(=O)O)N,20,59.2,13.7,train/test
+(l)-2-aminobutyric acid,CC[C@@H](C(=O)O)N,20,107.6,15.8,train/test
+(s)-3-aminobutyric acid,N[C@H](CC(O)=O)C,20,94.1,20.7,train/test
+4-aminobutyric acid,C(CC(=O)O)CN,20,54.1,2.6,train/test
+4-amino-3-hydroxybutyric acid,C(C(CN)O)C(=O)O,20,57.9,6.6,train/test
+4-amino-2-hydroxybutyric acid,C(CN)C(C(=O)O)O,20,56.4,4.0,train/test
+"2-methyl-1,3-thiazole-4-carboxylic acid",CC1=NC(=CS1)C(=O)O,20,65.1,9.3,train/test
+l-aspartic acid 4-cyclohexyl ester,C1CCC(CC1)OC(=O)C(CC(=O)O)N,20,4.3,1.5,train/test
+dl-homoserine,C(CO)[C@@H](C(=O)O)N,20,87.7,19.5,train/test
+trans-3-aminocyclohexanecarboxylic acid hydrochloride,C1C[C@H](C[C@@H](C1)N)C(=O)O,20,59.6,15.8,train/test
+(r)-3-amino-3-phenylpropionic acid,N[C@@H](CC(O)=O)C1=CC=CC=C1,20,54.5,5.5,train/test
+phenyl carbamate,C1=CC=C(C=C1)OC(=O)N,20,21.6,11.3,train/test
+"3,4-dihydroxy-l-phenylalanine",C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O,20,44.8,10.3,train/test
+"1,3-thiazole-2-carboxylic acid",C1=CSC(=N1)C(=O)O,20,47.6,2.3,train/test
+"2-methyl-4-phenyl-1,3-thiazole-5-carboxylic acid",CC1=NC(=C(S1)C(O)=O)C1=CC=CC=C1,20,77.6,18.7,train/test
+"imidazo[2,1-b][1,3]thiazole-6-carboxylic acid",C1=CSC2=NC(=CN21)C(=O)O,20,32.0,16.1,train/test
+3-chloro-l-phenylalanine,N[C@@H](CC1=CC=CC(Cl)=C1)C(O)=O,20,3.9,0.1,train/test
+"2-n-butylpropane-1,3-diol",CCCCC(CO)CO,20,35.5,5.7,train/test
+"2-tert-butylpropane-1,3-diol",CC(C)(C)C(CO)CO,20,15.2,3.0,train/test
+3-aminoisonicotinic acid,NC1=CN=CC=C1C(O)=O,20,8.7,2.3,train/test
+1-cyclohexyl-1-butanol,CCCC(C1CCCCC1)O,20,64.8,3.0,train/test
+"2-n-pentylpropane-1,3-diol",CCCCCC(CO)CO,20,29.1,5.0,train/test
+ethyl 2-aminooxazole-4-carboxylate,CCOC(=O)C1=COC(N)=N1,20,6.8,0.5,train/test
+5-aminopyridine-2-carboxylic acid,C1=CC(=NC=C1N)C(=O)O,20,3.2,2.0,train/test
+4-aminopyridine-2-carboxylic acid,C1=CN=C(C=C1N)C(=O)O,20,5.7,1.9,train/test
+3-(3-pyridyl)-l-alanine,C1=CC(=CN=C1)C[C@@H](C(=O)O)N,20,41.4,15.2,train/test
+4-amino-n-boc-l-phenylalanine,CC(C)(C)OC(=O)N[C@@H](CC1=CC=C(N)C=C1)C(O)=O,20,19.6,4.4,train/test
+4-aminobenzoic acid,C1=CC(=CC=C1C(=O)O)N,20,29.9,16.0,train/test
+"(2s,3r)-2-amino-3-methylpentanoic acid",CC[C@@H](C)[C@H](N)C(O)=O,20,34.7,8.6,predict
+1-propylpyrrolidine-2-carboxylic acid,CCCN1CCCC1C(O)=O,20,54.3,4.7,predict
+"methyl 4,5-diaminopyridine-2-carboxylate",COC(=O)c1cc(N)c(N)cn1,20,50.8,2.2,predict
+5-nitropyridine-2-carboxylic acid,OC(=O)c1ccc(cn1)[N+]([O-])=O,20,19.1,1.1,predict
+4-(dimethylamino)pyridine-2-carboxylic acid,CN(C)c1ccnc(c1)C(O)=O,20,49.0,4.3,predict
+methyl 4-aminopyridine-2-carboxylate,COC(=O)c1cc(N)ccn1,20,55.6,3.9,predict
+"(1r,3s)-1-amino-3-methylcyclobutane-1-carboxylic acid",C[C@H]1C[C@@](N)(C1)C(O)=O,20,42.6,6.2,predict
+methyl 5-aminopyridine-2-carboxylate,COC(=O)c1ccc(N)cn1,20,7.5,0.7,predict
+"(2s)-2-amino-3-(3,5-dichloro-4-hydroxyphenyl)propanoic acid",N[C@@H](Cc1cc(Cl)c(O)c(Cl)c1)C(O)=O,20,14.0,1.7,predict
+"(2s,3s)-3-methyl-2-(methylamino)pentanoic acid hydrochloride",CC[C@H](C)[C@H](NC)C(O)=O,20,6.6,1.7,predict
+"methyl 2-amino-1,3-oxazole-4-carboxylate",COC(=O)c1coc(N)n1,20,7.8,1.1,predict
+(2r)-2-amino-2-cyclobutylacetic acid,N[C@H](C1CCC1)C(O)=O,20,42.3,19.9,predict
+(2s)-2-amino-3-(3-chloro-4-hydroxyphenyl)propanoic acid,N[C@@H](Cc1ccc(O)c(Cl)c1)C(O)=O,20,14.0,2.6,predict
+(2r)-2-acetamidopropanoic acid,C[C@@H](NC(C)=O)C(O)=O,20,76.9,11.8,predict
+"(2s)-2-carboxy-1,1-dimethylpyrrolidin-1-ium chloride",C[N+]1(C)CCC[C@H]1C(O)=O,20,91.8,13.3,predict
+"(2r)-4,4-dimethylpyrrolidine-2-carboxylic acid",CC1(C)CN[C@H](C1)C(O)=O,20,76.8,11.6,predict
+"ethyl 2-amino-5-methyl-1,3-oxazole-4-carboxylate",CCOC(=O)c1nc(N)oc1C,20,7.1,3.4,predict
