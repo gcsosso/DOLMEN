@@ -14,7 +14,7 @@ The `glyco.csv` file contains the names, SMILES and experimental % MGS values fo
 
 ### Glyco2
 
-The _Glyco_ dataset contains 223 small molecule carbohydrates obtained from Refs[^1,2,3,4,5,6,7,8,9]. This includes the 124 compounds in the _Glyco_ dataset. IRI activity was determined at 22 mM, unless otherwise stated, using the "splat cooling" assay, performed in PBS. 
+The _Glyco_ dataset contains 223 small molecule carbohydrates obtained from Refs[^1,^2,^3^4,5,6,7,8,9]. This includes the 124 compounds in the _Glyco_ dataset. IRI activity was determined at 22 mM, unless otherwise stated, using the "splat cooling" assay, performed in PBS. 
 
 The `glyco2.csv` file contains the names, SMILES and experimental % MGS values for each compound. 
 
