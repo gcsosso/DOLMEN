@@ -18,7 +18,6 @@ The _Glyco_ dataset contains 223 small molecule carbohydrates obtained from Refs
 
 The `glyco2.csv` file contains the names, SMILES and experimental % MGS values for each compound. 
 
----
 #### References
 [^1]: Briard, J.G., Fernandez, M., De Luna, P., Woo, T.K., Ben, R.N.: QSAR Accelerated Discovery of Potent Ice Recrystallization Inhibitors. Scientific Reports 6(1), 26403 (2016). [https://doi.org/10.1038/srep26403](https://doi.org/10.1038/srep26403) 
 

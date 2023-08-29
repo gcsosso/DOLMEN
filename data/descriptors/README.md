@@ -72,20 +72,19 @@ The `soaps_<dataset>.csv` files contain the SOAPs for each compound in the respe
 
 ### Hydration histograms
 
-From short MD simulations, we compute a probability density histogram by calculating the pairwise distances between each water molecule and the solute at many points along the trajectory. These distances $d$ are then binned and normalised based on the total number of distances considered, and the interval width $\Delta d$, resulting in probability densities $P(d)$ for each bin, given by $P(d) = \frac{n_d}{\sum_{i}^{D_\mathrm{cut}}{n_i} \dot \Delta d}$. 
+Hydration histograms encode the probability associated with finding a water molecule at a given distance from an solute (inhibitor) during an MD trajectory. To obtain this, the pairwise inhibitor-water distances are first binned andthen  normalised based on the total number of water molecules considered and the bin width, resulting in a obtain a probability density at each distance interval.
 
-The `hydhist_<dataset>.csv` files contain the values for each of 100 bins in the histogram, ranging between 0 and 0.5 nm, for each compound in the respective dataset.
+The `hydhist_<dataset>.csv` files contain these values for each of 100 bins in the histogram, comprising inhibitor-water distances between 0 and 0.5 nm, for each compound in the respective dataset.
 
 _Note: Hydration histograms were not computed for the Amino prediction set._
 
 ### Hydration indices
 
-From short MD simulations, we compute a probability density histogram by calculating the pairwise distances between each water molecule and the solute at many points along the trajectory. These distances $d$ are then binned and normalised based on the total number of distances considered, and the interval width $\Delta d$, resulting in probability densities $P(d)$ for each bin, given by $P(d) = \frac{n_d}{\sum_{i}^{D_\mathrm{cut}}{n_i} \dot \Delta d}$. 
+A hydration index represents the number of nonexchangeble water molecules associated with a solute's "hydration layer" (i.e. the hydration number), divided by its partial molar volume. Here, we compute the hydration index computationally by means of MD simulations. Our hydration numbers represent the numbers of waters hydrogen-bonded to the solute, determined via geometric criteria, as well as the numbers of water molecules within a given cutoff distance of the molecule. These values are normalised against the compound's molecular volume, computed via RDKit[^1], yielding hydration indices. 
 
 The `hydidx_<dataset>.csv` files contain the hydration indices for each compound in the respective dataset. The hydration numbers were computed using seven fixed cutoff distances in the range 0.20 - 0.50 nm, the distances corresponding to the first and second solvation shells, and hydrogen bond numbers
 
 _Note: Hydration indices were not computed for the Amino prediction set._
 
----
 #### References
 [^1]: RDKit: Open-source cheminformatics. (2016). https://rdkit.org/
