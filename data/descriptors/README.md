@@ -88,4 +88,4 @@ _Note: Hydration indices were not computed for the Amino prediction set._
 
 ---
 #### References
-[^1] RDKit: Open-source cheminformatics. (2016). https://rdkit.org/
+[^1]: RDKit: Open-source cheminformatics. (2016). https://rdkit.org/
