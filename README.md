@@ -5,7 +5,7 @@ __Data-driven discOvery of potent smaLl Molecule rEcrystallisation iNhibitors__
 
 ## Contents
 
-This repository contains the relevant data associated with the manuscript "Data-driven Discovery of Potent Small Molecule Ice Recrystallisation Inhibitors". 
+This repository contains the relevant data associated with the manuscript "Data-driven Discovery of Potent Small Molecule Ice Recrystallisation Inhibitors" (DOI: https://doi.org/10.1038/s41467-024-52266-w)
 
  ### Datasets
 
